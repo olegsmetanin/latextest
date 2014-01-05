@@ -38,7 +38,7 @@ module.exports = function (grunt) {
 				options: {
 					stdout: true,
 					execOptions: {
-						cwd: 'src/Dissertation'
+						cwd: 'src/dissertation'
 					}
 				}
 			}
